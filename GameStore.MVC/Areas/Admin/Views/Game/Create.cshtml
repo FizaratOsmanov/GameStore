@@ -1,0 +1,40 @@
+﻿@model Game;
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Create Game</h4>
+            <p class="card-description">
+            </p>
+            <form method="post" class="forms-sample">
+                <div class="form-group">
+                    <label for="exampleInputTitle">Title</label>
+                    <input asp-for="Title" type="text" class="form-control" id="exampleInputTitle" placeholder="Title">
+                    <span class="text-danger" asp-validation-for="Title"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputTitle">Description</label>
+                    <input asp-for="Description" type="text" class="form-control" id="exampleInputTitle" placeholder="Description">
+                    <span class="text-danger" asp-validation-for="Description"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputTitle">Price</label>
+                    <input asp-for="Price" type="text" class="form-control" id="exampleInputTitle" placeholder="Price">
+                    <span class="text-danger" asp-validation-for="Price"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputTitle">GameID</label>
+                    <input asp-for="GameID" type="text" class="form-control" id="exampleInputTitle" placeholder="GameID">
+                    <span class="text-danger" asp-validation-for="GameID"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputTitle">Img</label>
+                    <input asp-for="Img" type="text" class="form-control" id="exampleInputTitle" placeholder="Img">
+                    <span class="text-danger" asp-validation-for="Img"></span>
+                </div>
+
+                <a class="btn btn-light" asp-controller="Game" asp-action="Index">Cancel</a>
+                <button type="submit" class="btn btn-primary mr-2">Create</button>
+            </form>
+        </div>
+    </div>
+</div>
