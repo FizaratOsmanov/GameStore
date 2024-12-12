@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace GameStore.BL.Concretes
 {
-    internal class GameService : IGameService
+    public class GameService : IGameService
     {
         private readonly AppDbContext _appDbContext;
         public GameService(AppDbContext appDbContext)

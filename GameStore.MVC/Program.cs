@@ -1,3 +1,5 @@
+using GameStore.BL.Abstractions;
+using GameStore.BL.Concretes;
 using GameStore.DAL;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,6 +16,7 @@ namespace GameStore.MVC
             options =>
             options.UseSqlServer(builder.Configuration.GetConnectionString("MsSql"))
             );
+            builder.Services.AddScoped<IGameService, GameService>();
 
             var app = builder.Build();
             app.UseStaticFiles();

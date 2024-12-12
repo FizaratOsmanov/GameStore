@@ -55,11 +55,13 @@
 
                                                 <td>@item.Price</td>
                                                 <td>@item.GameID</td>
-                                                <td>@item.Img</td>
+                                                <td>
+                                                    <img style="object-fit:cover" src="~/assets/GameFolder/@item.Img" />
+                                                </td>
                                                 <td>@item.IsDeleted</td>
                                                 <td>
                                                     <a class="btn btn-primary mr-2" asp-action="Info" asp-route-id="@item.Id">Info</a>
-                                                    <a class="btn btn-warning mr-2" style="color:#fff;" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                                                    <a class="btn btn-warning mr-2" style="color:#fff;" asp-area="Admin" asp-controller="Game" asp-action="Update" asp-route-id="@item.Id">Update</a>
                                                     <a class="btn btn-danger mr-2 @disabled" asp-action="SoftDelete" asp-route-id="@item.Id">SoftDelete</a>
                                                     <a class="btn btn-danger mr-2 @disabled" asp-action="HardDelete" asp-route-id="@item.Id">HardDelete</a>
 

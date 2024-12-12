@@ -329,6 +329,18 @@
       "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Pro.jpg",
+      "PackagePath": "staticwebassets\\assets\\GameFolder\\WIN_20241203_14_06_42_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg",
+      "PackagePath": "staticwebassets\\assets\\GameFolder\\WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299.jpg",
+      "PackagePath": "staticwebassets\\assets\\GameFolder\\WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299.jpg"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\css\\animate.css",
       "PackagePath": "staticwebassets\\assets\\css\\animate.css"
     },

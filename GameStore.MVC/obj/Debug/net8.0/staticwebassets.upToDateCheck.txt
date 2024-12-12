@@ -85,6 +85,9 @@ wwwroot\assets\css\flex-slider.css
 wwwroot\assets\css\fontawesome.css
 wwwroot\assets\css\owl.css
 wwwroot\assets\css\templatemo-lugx-gaming.css
+wwwroot\assets\GameFolder\WIN_20241203_14_06_42_Pro.jpg
+wwwroot\assets\GameFolder\WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg
+wwwroot\assets\GameFolder\WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299.jpg
 wwwroot\assets\images\banner-bg.jpg
 wwwroot\assets\images\banner-image.jpg
 wwwroot\assets\images\caption-dec.png

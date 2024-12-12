@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace GameStore.MVC.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class GameController : Controller
     {
         private readonly IGameService _gameService;
@@ -34,10 +35,10 @@ namespace GameStore.MVC.Areas.Admin.Controllers
             {
                 return View(gameCreateVM);
             }
-            if (!ModelState.IsValid)
-            {
-                return View(gameCreateVM);
-            }
+            //if (!ModelState.IsValid)
+            //{
+            //    return View(gameCreateVM);
+            //}
             string fileName = Path.GetFileNameWithoutExtension(gameCreateVM.ImgUrl.FileName);
             if (gameCreateVM.ImgUrl.Length > 5 * 1024 * 1024)
             {
@@ -74,13 +75,18 @@ namespace GameStore.MVC.Areas.Admin.Controllers
             uploadPath = Path.Combine(uploadPath, fileName);
             using FileStream fileStream = new FileStream(uploadPath, FileMode.Create);
             gameCreateVM.ImgUrl.CopyToAsync(fileStream);
+            
             Game game = new Game()
             {
+                Title = gameCreateVM.Title,
+                Description = gameCreateVM.Description,
+                Price = gameCreateVM.Price,
+                GameID = gameCreateVM.GameID,
                 Img = fileName
             };
 
             _gameService.CreateGame(game);
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(Index),"Game");
         }
         [HttpGet]
         public IActionResult Update(int id)
@@ -108,5 +114,7 @@ namespace GameStore.MVC.Areas.Admin.Controllers
             _gameService.HardDeleteGame(id);
             return RedirectToAction(nameof(Index));
         }
+
+       
     }
 }

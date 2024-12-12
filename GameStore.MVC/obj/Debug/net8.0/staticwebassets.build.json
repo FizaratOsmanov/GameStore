@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m7jcS/8puZKHElNFzanKaNTGdqoyfqc/TKAG8AH/AOk=",
+  "Hash": "iO77P4sAL7sU3BzBcPICJ2BbW+cfffu9tu64hxtcpgI=",
   "Source": "GameStore.MVC",
   "BasePath": "_content/GameStore.MVC",
   "Mode": "Default",
@@ -1842,6 +1842,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\templatemo-lugx-gaming.css"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Pro.jpg",
+      "SourceId": "GameStore.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\",
+      "BasePath": "_content/GameStore.MVC",
+      "RelativePath": "assets/GameFolder/WIN_20241203_14_06_42_Pro#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wvv4291zbw",
+      "Integrity": "bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Pro.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg",
+      "SourceId": "GameStore.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\",
+      "BasePath": "_content/GameStore.MVC",
+      "RelativePath": "assets/GameFolder/WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wvv4291zbw",
+      "Integrity": "bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299.jpg",
+      "SourceId": "GameStore.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\",
+      "BasePath": "_content/GameStore.MVC",
+      "RelativePath": "assets/GameFolder/WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wvv4291zbw",
+      "Integrity": "bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299.jpg"
     },
     {
       "Identity": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\images\\banner-bg.jpg",
@@ -9963,6 +10026,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-B21Kl6RJSFznvfCjAU64aXfO80Y7TpfOymIFNX3oT6Y="
+        }
+      ]
+    },
+    {
+      "Route": "assets/GameFolder/WIN_20241203_14_06_42_Pro.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 09:56:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/GameFolder/WIN_20241203_14_06_42_Pro.wvv4291zbw.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 09:56:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvv4291zbw"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/GameFolder/WIN_20241203_14_06_42_Pro.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/GameFolder/WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 09:56:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/GameFolder/WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.wvv4291zbw.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 09:56:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvv4291zbw"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/GameFolder/WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/GameFolder/WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 09:58:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/GameFolder/WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299.wvv4291zbw.jpg",
+      "AssetFile": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\wwwroot\\assets\\GameFolder\\WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131640"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 09:58:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvv4291zbw"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/GameFolder/WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w="
         }
       ]
     },
