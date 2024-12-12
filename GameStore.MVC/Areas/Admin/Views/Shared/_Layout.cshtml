@@ -14,7 +14,8 @@
     <!-- inject:css -->
     <link rel="stylesheet" href="~/admin/assets/css/style.css">
     <!-- endinject -->
-    <link rel="shortcut icon" href="~/admin/assets/images/favicon.png" /> 
+    <link rel="shortcut icon" href="~/admin/assets/images/favicon.png" />
+</head>
 
 <body>
     <div class="container-scroller">
@@ -180,8 +181,7 @@
                         </a>
                         <div class="collapse" id="ui-basic">
                             <ul class="nav flex-column sub-menu">
-                                <li class="nav-item"> <a class="nav-link">Buttons</a></li>
-                                <li class="nav-item"> <a class="nav-link">Cards</a></li>
+                                <li class="nav-item"> <a class="nav-link" asp-area="Admin" asp-controller="Game" asp-action="Index">Game</a></li>
                             </ul>
                         </div>
                     </li>

@@ -1,4 +1,4 @@
-﻿@using GameStore.DAL.Models;
+﻿@using GameStore.MVC.Areas.Admin.ViewModels.GameVM;
 @model IEnumerable<Game>;
 @{
     string disabled = string.Empty;
@@ -71,7 +71,7 @@
                                     }
                                     else
                                     {
-                                        <tr><td colspan="3">No game available.</td></tr>
+                                        <tr><td colspan="9">No game available.</td></tr>
 
                                     }
                                 </tbody>

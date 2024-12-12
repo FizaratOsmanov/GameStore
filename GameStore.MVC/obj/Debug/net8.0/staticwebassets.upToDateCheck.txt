@@ -86,7 +86,9 @@ wwwroot\assets\css\fontawesome.css
 wwwroot\assets\css\owl.css
 wwwroot\assets\css\templatemo-lugx-gaming.css
 wwwroot\assets\GameFolder\WIN_20241203_14_06_42_Pro.jpg
+wwwroot\assets\GameFolder\WIN_20241203_14_06_42_Pro49ffcbda-121c-43e3-9eff-c5f5fd84f600.jpg
 wwwroot\assets\GameFolder\WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg
+wwwroot\assets\GameFolder\WIN_20241203_14_06_42_Proe1b6776a-69ba-46ef-8aae-3cc7653ae849.jpg
 wwwroot\assets\GameFolder\WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299.jpg
 wwwroot\assets\images\banner-bg.jpg
 wwwroot\assets\images\banner-image.jpg

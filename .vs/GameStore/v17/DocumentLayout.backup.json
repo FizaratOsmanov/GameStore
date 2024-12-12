@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\GameStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\areas\\admin\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\areas\\admin\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\areas\\admin\\views\\game\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,16 +15,32 @@
       "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\areas\\admin\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3600A735-645D-4D9C-BE6F-F43DF665D3B4}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.bl\\abstractions\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3600A735-645D-4D9C-BE6F-F43DF665D3B4}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\abstractions\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3600A735-645D-4D9C-BE6F-F43DF665D3B4}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.bl\\concretes\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3600A735-645D-4D9C-BE6F-F43DF665D3B4}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\concretes\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\areas\\admin\\viewmodels\\gamevm\\gameupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,12 +51,12 @@
       "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\viewmodels\\gamevm\\gamecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3600A735-645D-4D9C-BE6F-F43DF665D3B4}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.bl\\concretes\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3600A735-645D-4D9C-BE6F-F43DF665D3B4}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\concretes\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -71,16 +79,8 @@
       "RelativeMoniker": "D:0:0:{34AF25EB-080E-4E52-95A2-5E24E876A498}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3600A735-645D-4D9C-BE6F-F43DF665D3B4}|GameStore.BL\\GameStore.BL.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.bl\\abstractions\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3600A735-645D-4D9C-BE6F-F43DF665D3B4}|GameStore.BL\\GameStore.BL.csproj|solutionrelative:gamestore.bl\\abstractions\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{34AF25EB-080E-4E52-95A2-5E24E876A498}|GameStore.DAL\\GameStore.DAL.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34AF25EB-080E-4E52-95A2-5E24E876A498}|GameStore.DAL\\GameStore.DAL.csproj|solutionrelative:gamestore.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|solutionrelative:gamestore.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{916BE7B6-635F-41D7-8D5F-D5C966E3182A}|GameStore.MVC\\GameStore.MVC.csproj|c:\\users\\lenovo\\desktop\\gamestore\\gamestore.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -121,8 +121,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 672,
-          "SelectedChildIndex": 8,
+          "DockedHeight": 686,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,39 +130,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
-              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T22:21:40.72Z",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GameStore.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T12:51:10.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAkwLsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-11T13:50:49.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:51:16.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T13:50:42.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\Game\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Game\\Index.cshtml*",
+              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\Game\\Index.cshtml*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T22:21:48.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
+              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:21:40.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Game\\Create.cshtml",
               "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\Game\\Create.cshtml",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Game\\Create.cshtml",
               "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\Game\\Create.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-11T23:24:33.691Z",
               "EditorCaption": ""
@@ -170,38 +222,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Game\\Index.cshtml",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\Game\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Game\\Index.cshtml",
-              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\Game\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T22:21:48.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Program.cs",
-              "RelativeToolTip": "GameStore.MVC\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T12:56:55.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Game\\Update.cshtml",
               "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\Game\\Update.cshtml",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Game\\Update.cshtml",
               "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\Game\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-12T10:10:25.66Z",
               "EditorCaption": ""
@@ -209,45 +235,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "GameUpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameUpdateVM.cs",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameUpdateVM.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameUpdateVM.cs",
-              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameUpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.BL\\Abstractions\\IGameService.cs",
+              "RelativeDocumentMoniker": "GameStore.BL\\Abstractions\\IGameService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.BL\\Abstractions\\IGameService.cs",
+              "RelativeToolTip": "GameStore.BL\\Abstractions\\IGameService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T10:07:54.747Z",
+              "WhenOpened": "2024-12-11T20:22:05.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "GameStore.MVC\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAACwAAAAAAAAAAIAwwD4AAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T12:51:10.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "GameService.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.BL\\Concretes\\GameService.cs",
               "RelativeDocumentMoniker": "GameStore.BL\\Concretes\\GameService.cs",
               "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.BL\\Concretes\\GameService.cs",
               "RelativeToolTip": "GameStore.BL\\Concretes\\GameService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwEoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T10:03:20.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
+              "Title": "GameUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameUpdateVM.cs",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameUpdateVM.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameUpdateVM.cs",
+              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:07:54.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameCreateVM.cs",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameCreateVM.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameCreateVM.cs",
+              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:52:38.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "GameStore.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Program.cs",
+              "RelativeToolTip": "GameStore.MVC\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:56:55.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -255,21 +306,7 @@
               "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T10:17:11.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GameCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameCreateVM.cs",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameCreateVM.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameCreateVM.cs",
-              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\ViewModels\\GameVM\\GameCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:52:38.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T10:17:11.064Z"
             },
             {
               "$type": "Document",
@@ -286,19 +323,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "IGameService.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.BL\\Abstractions\\IGameService.cs",
-              "RelativeDocumentMoniker": "GameStore.BL\\Abstractions\\IGameService.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.BL\\Abstractions\\IGameService.cs",
-              "RelativeToolTip": "GameStore.BL\\Abstractions\\IGameService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T20:22:05.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "20241212094130_init.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.DAL\\Migrations\\20241212094130_init.cs",
               "RelativeDocumentMoniker": "GameStore.DAL\\Migrations\\20241212094130_init.cs",
@@ -306,33 +330,7 @@
               "RelativeToolTip": "GameStore.DAL\\Migrations\\20241212094130_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T09:41:31.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:51:16.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "GameStore.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAFYBAAAAAAAAAAAwwAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T13:50:42.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T09:41:31.378Z"
             },
             {
               "$type": "Document",
@@ -360,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.DAL\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "GameStore.DAL\\Models\\BaseEntity.cs",
@@ -372,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.DAL\\Models\\Game.cs",
               "RelativeDocumentMoniker": "GameStore.DAL\\Models\\Game.cs",
@@ -380,8 +378,7 @@
               "RelativeToolTip": "GameStore.DAL\\Models\\Game.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:26:22.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T13:26:22.752Z"
             },
             {
               "$type": "Document",
@@ -397,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "GameStore.MVC\\appsettings.json",
@@ -405,12 +402,11 @@
               "RelativeToolTip": "GameStore.MVC\\appsettings.json",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-11T13:14:40.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T13:14:40.879Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GameStore.DAL\\AppDbContext.cs",
@@ -418,8 +414,7 @@
               "RelativeToolTip": "GameStore.DAL\\AppDbContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAwA4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T13:04:49.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T13:04:49.211Z"
             },
             {
               "$type": "Document",
@@ -447,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\GameStore\\GameStore.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "GameStore.MVC\\Views\\Home\\Index.cshtml",
@@ -455,8 +450,7 @@
               "RelativeToolTip": "GameStore.MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAO0AAAAAAAAAAIAwwNkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T12:49:56.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T12:49:56.168Z"
             },
             {
               "$type": "Document",
@@ -485,7 +479,7 @@
           ]
         },
         {
-          "DockedHeight": 46,
+          "DockedHeight": 32,
           "SelectedChildIndex": -1,
           "Children": [
             {

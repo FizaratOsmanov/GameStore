@@ -1056,6 +1056,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wvv4291zbw"},{"Name":"integrity","Value":"sha256-bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w="},{"Name":"label","Value":"_content/GameStore.MVC/assets/GameFolder/WIN_20241203_14_06_42_Pro.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"131640"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Dec 2024 09:56:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameStore.MVC/assets/GameFolder/WIN_20241203_14_06_42_Pro49ffcbda-121c-43e3-9eff-c5f5fd84f600.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Pro49ffcbda-121c-43e3-9eff-c5f5fd84f600.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"131640"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Dec 2024 23:21:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameStore.MVC/assets/GameFolder/WIN_20241203_14_06_42_Pro49ffcbda-121c-43e3-9eff-c5f5fd84f600.wvv4291zbw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Pro49ffcbda-121c-43e3-9eff-c5f5fd84f600.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wvv4291zbw"},{"Name":"integrity","Value":"sha256-bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w="},{"Name":"label","Value":"_content/GameStore.MVC/assets/GameFolder/WIN_20241203_14_06_42_Pro49ffcbda-121c-43e3-9eff-c5f5fd84f600.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"131640"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Dec 2024 23:21:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameStore.MVC/assets/GameFolder/WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -1067,6 +1079,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wvv4291zbw"},{"Name":"integrity","Value":"sha256-bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w="},{"Name":"label","Value":"_content/GameStore.MVC/assets/GameFolder/WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"131640"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Dec 2024 09:56:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameStore.MVC/assets/GameFolder/WIN_20241203_14_06_42_Proe1b6776a-69ba-46ef-8aae-3cc7653ae849.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Proe1b6776a-69ba-46ef-8aae-3cc7653ae849.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"131640"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Dec 2024 22:14:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GameStore.MVC/assets/GameFolder/WIN_20241203_14_06_42_Proe1b6776a-69ba-46ef-8aae-3cc7653ae849.wvv4291zbw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Proe1b6776a-69ba-46ef-8aae-3cc7653ae849.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wvv4291zbw"},{"Name":"integrity","Value":"sha256-bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w="},{"Name":"label","Value":"_content/GameStore.MVC/assets/GameFolder/WIN_20241203_14_06_42_Proe1b6776a-69ba-46ef-8aae-3cc7653ae849.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"131640"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 12 Dec 2024 22:14:00 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GameStore.MVC/assets/GameFolder/WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Profe29b681-67aa-4942-adef-56e33a5a4299.jpg'))</AssetFile>
