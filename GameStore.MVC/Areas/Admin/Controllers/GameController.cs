@@ -1,33 +1,42 @@
 ﻿using GameStore.BL.Abstractions;
+using GameStore.DAL;
 using GameStore.DAL.Models;
 using GameStore.MVC.Areas.Admin.ViewModels.GameVM;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
-
 namespace GameStore.MVC.Areas.Admin.Controllers
 {
     [Area("Admin")]
     public class GameController : Controller
     {
+        private readonly AppDbContext _appDbContext;
         private readonly IGameService _gameService;
         private readonly IWebHostEnvironment _webHostEnvironment;
-
-        public GameController(IGameService gameService,IWebHostEnvironment webHostEnvironment)
+        public GameController(IGameService gameService,IWebHostEnvironment webHostEnvironment, AppDbContext appDbContext)
         {
             _gameService = gameService;
             _webHostEnvironment = webHostEnvironment;
+            _appDbContext=appDbContext;
         }
+
+
+
         [HttpGet]
         public IActionResult Index()
         {
             IEnumerable<Game> games = _gameService.GetAllGames();
             return View(games);
         }
+
+
         [HttpGet]
         public IActionResult Create()
         {
             return View();
         }
+
+
+
         [HttpPost]
         public IActionResult Create(GameCreateVM gameCreateVM)
         {
@@ -35,10 +44,6 @@ namespace GameStore.MVC.Areas.Admin.Controllers
             {
                 return View(gameCreateVM);
             }
-            //if (!ModelState.IsValid)
-            //{
-            //    return View(gameCreateVM);
-            //}
             string fileName = Path.GetFileNameWithoutExtension(gameCreateVM.ImgUrl.FileName);
             if (gameCreateVM.ImgUrl.Length > 5 * 1024 * 1024)
             {
@@ -84,16 +89,21 @@ namespace GameStore.MVC.Areas.Admin.Controllers
                 GameID = gameCreateVM.GameID,
                 Img = fileName
             };
-
             _gameService.CreateGame(game);
+            _appDbContext.SaveChanges();
+
             return RedirectToAction(nameof(Index),"Game");
         }
+
+
         [HttpGet]
         public IActionResult Update(int id)
         {
             Game game = _gameService.GetGameById(id);
             return View(game);
         }
+
+
         [HttpPost]
         public IActionResult Update(int id, Game game)
         {
@@ -102,16 +112,23 @@ namespace GameStore.MVC.Areas.Admin.Controllers
                 return View(game);
             }
             _gameService.UpdateGame(id, game);
+            _appDbContext.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
+
+
         public IActionResult SoftDelete(int id)
         {
             _gameService.SoftDeleteGame(id);
+            _appDbContext.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
+
+
         public IActionResult HardDelete(int id)
         {
             _gameService.HardDeleteGame(id);
+            _appDbContext.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
 

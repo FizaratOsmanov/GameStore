@@ -20,11 +20,8 @@
     <link rel="stylesheet" href="~/assets/css/animate.css">
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
     <!--
-
     TemplateMo 589 lugx gaming
-
     https://templatemo.com/tm-589-lugx-gaming
-
     -->
 </head>
 
@@ -55,11 +52,11 @@
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li><a href="index.html" class="active">Home</a></li>
-                            <li><a href="shop.html">Our Shop</a></li>
-                            <li><a href="product-details.html">Product Details</a></li>
+                            <li><a asp-controller="Home" asp-action="Index" >Home</a></li>
+                            <li><a asp-controller="Shop" asp-action="Index">Our Shop</a></li>
+                            <li><a asp-controller="ProductDetail" asp-action="Index" >Product Details</a></li>
                             <li><a href="contact.html">Contact Us</a></li>
-                            <li><a href="#">Sign In</a></li>
+                            <li><a asp-controller="Account" asp-action="Index">Sign In</a></li>
                             <li><a asp-area="Admin" asp-controller="Dashboard" asp-action="Index">Admin</a></li>
                         </ul>
                         <a class='menu-trigger'>
@@ -80,7 +77,6 @@
             </div>
         </div>
     </footer>
-
     <!-- Scripts -->
     <!-- Bootstrap core JavaScript -->
     <script src="~/assets/vendor/jquery/jquery.min.js"></script>
@@ -89,6 +85,5 @@
     <script src="~/assets/js/owl-carousel.js"></script>
     <script src="~/assets/js/counter.js"></script>
     <script src="~/assets/js/custom.js"></script>
-
 </body>
 </html>

@@ -1,0 +1,85 @@
+﻿@{
+    Layout = null;
+}
+@using GameStore.MVC.Areas.Admin.ViewModels.UserVM;
+@model UserSignUpVM;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <!-- Bootstrap CSS Linki -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #f4f4f9;
+        }
+
+        .container {
+            max-width: 500px;
+            margin-top: 80px;
+        }
+
+        .card {
+            border: none;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn-custom {
+            background-color: #007bff;
+            color: white;
+        }
+
+            .btn-custom:hover {
+                background-color: #0056b3;
+            }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title text-center">Sign Up</h4>
+                <form  method="POST">
+                    <div class="form-group">
+                        <label asp-for="FirstName">First Name</label>
+                        <input type="text" class="form-control" asp-for="FirstName" placeholder="enter First Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="LastName">Last Name</label>
+                        <input type="text" class="form-control" asp-for="LastName" placeholder="enter Last Name" required>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email">Email</label>
+                        <input type="email" class="form-control" asp-for="Email" placeholder="enter Email" required>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Username">Username</label>
+                        <input type="text" class="form-control" asp-for="Username" placeholder="enter Username" required>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password">Password</label>
+                        <input type="password" class="form-control" asp-for="Password" placeholder="enter Password" required>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="CofirmPassword">ConfirmPassword</label>
+                        <input type="password" class="form-control" asp-for="CofirmPassword" placeholder="enter Password" required>
+                    </div>
+                    <button type="submit" class="btn btn-custom btn-block">Sign Up</button>
+                </form>
+                <div class="text-center mt-3">
+                    <p>Do you have an account? <a asp-controller="Account" asp-action="Index">Sign In</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS ve jQuery Linkleri -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

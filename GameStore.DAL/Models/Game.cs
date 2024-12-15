@@ -19,6 +19,8 @@ namespace GameStore.DAL.Models
 
         public string Img {  get; set; }
 
+        public IEnumerable<Review> Reviews { get; set; }
+
 
     }
 }

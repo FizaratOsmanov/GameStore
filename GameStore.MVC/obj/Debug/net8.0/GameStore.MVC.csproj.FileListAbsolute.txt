@@ -308,3 +308,7 @@ C:\Users\LENOVO\Desktop\GameStore\GameStore.MVC\obj\Debug\net8.0\staticwebassets
 C:\Users\LENOVO\Desktop\GameStore\GameStore.MVC\obj\Debug\net8.0\GameStor.500E4C28.Up2Date
 C:\Users\LENOVO\Desktop\GameStore\GameStore.MVC\obj\Debug\net8.0\GameStore.MVC.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\GameStore\GameStore.MVC\obj\Debug\net8.0\ref\GameStore.MVC.dll
+C:\Users\LENOVO\Desktop\GameStore\GameStore.MVC\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LENOVO\Desktop\GameStore\GameStore.MVC\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\LENOVO\Desktop\GameStore\GameStore.MVC\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\GameStore\GameStore.MVC\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

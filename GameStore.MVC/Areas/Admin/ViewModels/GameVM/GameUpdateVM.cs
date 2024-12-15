@@ -8,6 +8,5 @@
         public int Price { get; set; }
         public string Img { get; set; }
         public string GameID { get; set; }
-        //public IFormFile ImgUrl { get; set; }
     }
 }
