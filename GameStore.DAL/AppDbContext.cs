@@ -16,7 +16,7 @@ namespace GameStore.DAL
         public AppDbContext(DbContextOptions options) : base(options) { }
         public DbSet<Game> Games { get; set; }
         public DbSet<Review> Reviews { get; set; }
-
+        public DbSet<ShopItem> ShopItems { get; set; }
 
 
     }

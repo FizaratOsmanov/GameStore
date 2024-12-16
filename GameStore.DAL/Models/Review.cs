@@ -7,9 +7,10 @@ namespace GameStore.DAL.Models
 {
     public class Review:BaseEntity
     {
-        public string? Comment { get; set; }
-        public int? GameId { get; set; }
+        public string Comment { get; set; }
+        public int? ShopItemId { get; set; }
 
-        public Game? game { get; set; }
+        public string Username {  get; set; }
+        public ShopItem? shopItem { get; set; }
     }
 }

@@ -17,27 +17,51 @@ namespace GameStore.MVC.Controllers
         }
         public IActionResult Index()
         {
-            return View();
+            List<CartItem> cartItems = new List<CartItem>();
+            string? cookie = Request.Cookies["CartItem"];
+            if (cookie != null)
+            {
+                cartItems = JsonConvert.DeserializeObject<List<CartItem>>(cookie);
+            }
+            return View(cartItems);
         }
-        public IActionResult AddToBasket(int gameId)
+
+        public async Task<IActionResult> AddToCart(int Id)
         {
-            if (gameId <= 0) return BadRequest();
-            Game? game = _context.Games.Find(gameId);
-            if (game == null) return NotFound();
-            var cookie = new CookieOptions()
+            ShopItem? shopItem = await _context.ShopItems.Include(g => g.game).FirstOrDefaultAsync(p => p.GameId == Id);
+            if (shopItem is null)
             {
-                Expires = DateTime.Now.AddDays(7),
-                HttpOnly = true
-            };
-            BasketItemVM basketItemVM = new BasketItemVM()
+                return NotFound("not found");
+            }
+
+            List<CartItem> cart = new List<CartItem>();
+            string? cookie = Request.Cookies["Cart"];
+            if (cookie != null)
             {
-                Title = game.Title,
-                Price = game.Price,
+                cart = JsonConvert.DeserializeObject<List<CartItem>>(cookie);
+            }
+
+            CartItem cartItem = new CartItem
+            {
+                Id = shopItem.Id,
+                Title = shopItem.Title,
+                GameId = shopItem.GameId,
+                Price = shopItem.Price,
+                ImgPath = shopItem.Img,
                 Quantity = 1
             };
-            var basketItem = JsonConvert.SerializeObject(basketItemVM);
-            Response.Cookies.Append("BasketItem", basketItem, cookie);
-            return Ok();
+
+            CartItem? CartItem = cart.FirstOrDefault(p => p.Id == cartItem.Id);
+            if (CartItem == null)
+            {
+                cart.Add(cartItem);
+            }
+            else
+            {
+                CartItem.Quantity ++;
+            }
+            string serializedObject = JsonConvert.SerializeObject(cart);
+            return RedirectToAction("Index", "Shop");
         }
         public IActionResult GetBasket()
         {

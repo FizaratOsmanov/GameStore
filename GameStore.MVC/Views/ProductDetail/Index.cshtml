@@ -53,7 +53,7 @@
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
                             <li><a asp-controller="Home" asp-action="Index">Home</a></li>
-                            <li><a href="shop.html">Our Shop</a></li>
+                            <li><a asp-controller="Shop" asp-action="Index">Our Shop</a></li>
                             <li><a asp-controller="ProductDetail" asp-action="Index">Product Details</a></li>
                             <li><a href="contact.html">Contact Us</a></li>
                             <li><a asp-controller="SignIn" asp-action="Index">Sign In</a></li>
@@ -94,7 +94,7 @@
                     <p>LUGX Gaming Template is based on the latest Bootstrap 5 CSS framework. This template is provided by TemplateMo and it is suitable for your gaming shop ecommerce websites. Feel free to use this for any purpose. Thank you.</p>
                     <form id="qty" action="#">
                         <input type="qty" class="form-control" id="1" aria-describedby="quantity" placeholder="1" fdprocessedid="kvh6c">
-                        <button type="submit" fdprocessedid="f4hpa9"><i class="fa fa-shopping-bag"></i> ADD TO CART</button>
+                        <button asp-controller="Cart" asp-action="AddToCart" type="submit" fdprocessedid="f4hpa9"><i class="fa fa-shopping-bag"></i> ADD TO CART</button>
                     </form>
                     <ul>
                         <li><span>Game ID:</span> COD MMII</li>
