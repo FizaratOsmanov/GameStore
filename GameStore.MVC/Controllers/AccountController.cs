@@ -23,6 +23,7 @@ namespace GameStore.MVC.Controllers
         }
         public IActionResult SignUp()
         {
+
             return View();
         }
         [HttpPost]

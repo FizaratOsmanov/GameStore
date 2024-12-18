@@ -1,6 +1,8 @@
 ﻿using GameStore.DAL;
 using GameStore.DAL.Models;
 using GameStore.MVC.Areas.Admin.ViewModels.BasketVM;
+using GameStore.MVC.Areas.Admin.ViewModels.GameVM;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
@@ -25,7 +27,6 @@ namespace GameStore.MVC.Controllers
             }
             return View(cartItems);
         }
-
         public async Task<IActionResult> AddToCart(int Id)
         {
             ShopItem? shopItem = await _context.ShopItems.Include(g => g.game).FirstOrDefaultAsync(p => p.GameId == Id);
@@ -40,7 +41,6 @@ namespace GameStore.MVC.Controllers
             {
                 cart = JsonConvert.DeserializeObject<List<CartItem>>(cookie);
             }
-
             CartItem cartItem = new CartItem
             {
                 Id = shopItem.Id,
@@ -50,7 +50,6 @@ namespace GameStore.MVC.Controllers
                 ImgPath = shopItem.Img,
                 Quantity = 1
             };
-
             CartItem? CartItem = cart.FirstOrDefault(p => p.Id == cartItem.Id);
             if (CartItem == null)
             {

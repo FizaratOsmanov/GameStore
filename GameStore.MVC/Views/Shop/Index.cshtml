@@ -27,6 +27,9 @@
 			<li>
 				<a href="#!" data-filter=".rac">Racing</a>
 			</li>
+			<li>
+				<button asp-controller="Cart" asp-action="Index" data-filter=".rac">Cart</button>
+			</li>
 		</ul>
 		<div class="row trending-box">
 			@foreach (ShopItem item in @Model)

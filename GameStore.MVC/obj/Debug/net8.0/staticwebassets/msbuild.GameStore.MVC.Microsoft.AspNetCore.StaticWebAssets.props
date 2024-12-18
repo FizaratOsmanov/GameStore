@@ -1674,6 +1674,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Pro95614e12-e40e-4f20-9aaf-0b0b5e983225.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Probeda467e-a10f-48e6-b898-f6af54c2065a.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GameStore.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GameStore.MVC</BasePath>
+      <RelativePath>assets/GameFolder/WIN_20241203_14_06_42_Probeda467e-a10f-48e6-b898-f6af54c2065a.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wvv4291zbw</Fingerprint>
+      <Integrity>bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Probeda467e-a10f-48e6-b898-f6af54c2065a.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Probf7bebd7-0560-44c4-9a09-81335e2d0848.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>GameStore.MVC</SourceId>
@@ -1691,6 +1709,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Probf7bebd7-0560-44c4-9a09-81335e2d0848.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Prode1f3268-bc8e-48dc-8be1-7b2ef676fa2d.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>GameStore.MVC</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/GameStore.MVC</BasePath>
+      <RelativePath>assets/GameFolder/WIN_20241203_14_06_42_Prode1f3268-bc8e-48dc-8be1-7b2ef676fa2d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wvv4291zbw</Fingerprint>
+      <Integrity>bFBT07PxnndTigZ3JshdnI180M4XhEKLlDtMv5VA8/w=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Prode1f3268-bc8e-48dc-8be1-7b2ef676fa2d.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\GameFolder\WIN_20241203_14_06_42_Prodfc09aa1-c261-45a3-ab7c-d3fabdba06f0.jpg'))">
       <SourceType>Package</SourceType>
